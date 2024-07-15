@@ -1,0 +1,18 @@
+.pinkish-background {
+    background-color: #ee7b93;
+}
+
+.big-font-size {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: #89b489;
+    font-size: 24px;
+    font-weight: bold;
+}
