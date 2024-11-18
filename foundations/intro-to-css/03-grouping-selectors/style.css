@@ -1,9 +1,10 @@
 .left {
-
+    background-color: black;
+    color: white;
 }
 
 .right {
-
+    background-color: yellow;
 }
 
 .left,
